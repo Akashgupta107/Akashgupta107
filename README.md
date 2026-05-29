@@ -84,7 +84,7 @@ me = AkashGupta()
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,flask" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js" />
 
 </div>
 
