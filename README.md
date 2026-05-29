@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://cdn.prod.website-files.com/63ccf2f0ea97be12ead278ed/644a18b637053fa3709c5ba2_what-is-data-science.jpg" width="100%" />
+<img src="https://user-images.githubusercontent.com/86153190/180595867-8ba21e63-0cbc-46fc-a186-c749f56d921e.jpg" width="100%" />
 
 </div>
 
