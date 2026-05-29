@@ -47,17 +47,6 @@ me = AkashGupta()
 * 🧠 Preparing for GATE CSE & DA 2026
 * 🚀 Growing my GitHub Portfolio
 
-### ⚡ Quick Facts
-
-```yaml
-Name: Akash Gupta
-Username: Akashgupta107
-Passion: Data Science
-Favorite Language: Python
-Dream Role: Data Scientist
-Current Mission: Learn • Build • Improve
-```
-
 ### 📈 Progress Tracker
 
 🟩 Python            ██████████ 90%
@@ -89,9 +78,7 @@ Current Mission: Learn • Build • Improve
 
 ---
 
-# ⚡ Tech Arsenal
-
-## 💻 Languages
+# 💻 Languages
 
 <div align="center">
 
@@ -101,15 +88,6 @@ Current Mission: Learn • Build • Improve
 
 ---
 
-## 🗄 Database
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql" />
-
-</div>
-
----
 
 ## 📊 Data Science & ML Stack
 
@@ -135,18 +113,6 @@ Current Mission: Learn • Build • Improve
 
 ---
 
-# 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akashgupta107&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashgupta107&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 # 🔥 Daily Streak
 
 <div align="center">
@@ -156,7 +122,8 @@ Current Mission: Learn • Build • Improve
 </div>
 
 ---
-
+![snake gif](https://github.com/Akashgupta107/Akashgupta107/blob/output/github-snake-dark.svg)
+---
 # 📊 Contribution Graph
 
 <div align="center">
@@ -167,87 +134,7 @@ Current Mission: Learn • Build • Improve
 
 ---
 
-# 🏆 GitHub Achievements
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Akashgupta107&theme=tokyonight&no-frame=true&margin-w=15"/>
-
-</div>
-
----
-
-# 📌 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Akashgupta107/MentalHealthSupportGroup">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Akashgupta107&repo=MentalHealthSupportGroup&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/Akashgupta107/SnackSquard">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Akashgupta107&repo=SnackSquard&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/Akashgupta107/excel_formula">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Akashgupta107&repo=excel_formula&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/Akashgupta107/portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Akashgupta107&repo=portfolio&theme=tokyonight"/>
-</a>
-
-</div>
-
----
-
-# 🐍 Contribution Snake Animation
-
-Create:
-
-```bash
-.github/workflows/snake.yml
-```
-
-Paste:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Akashgupta107
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Then add:
-
-```html
-<p align="center">
-<img src="https://raw.githubusercontent.com/Akashgupta107/Akashgupta107/output/github-contribution-grid-snake.svg"/>
-</p>
-```
-![snake gif](https://github.com/Akashgupta107/Akashgupta107/blob/output/github-snake-dark.svg)
----
 
 # 👀 Profile Visitors
 
