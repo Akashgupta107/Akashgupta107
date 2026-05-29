@@ -13,35 +13,69 @@
 </div>
 
 ---
+## 🚀 About Me
 
-# 💫 About Me
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWl4aWQ3M2V4MGl5aDg4dGh4c2d5b3RwM3A5M3V6M3Q3YjQ4Z2s5eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
+
+```python
+class AkashGupta:
+
+    def __init__(self):
+        self.role = "Data Science Enthusiast"
+        self.education = "B.Tech CSE Graduate"
+        self.location = "India 🇮🇳"
+        self.learning = [
+            "Machine Learning",
+            "Data Analytics",
+            "Flask",
+            "SQL",
+            "Scikit-Learn"
+        ]
+
+    def current_goal(self):
+        return "Crack GATE CSE 2026 & Become a Data Scientist"
+
+me = AkashGupta()
+```
+
+### 🎯 Current Focus
+
+* 📊 Exploring Data Science & Machine Learning
+* 🐍 Building projects using Python
+* 🗄️ Learning SQL for Data Analytics
+* 🌐 Developing Web Applications using Flask
+* 🧠 Preparing for GATE CSE & DA 2026
+* 🚀 Growing my GitHub Portfolio
+
+### ⚡ Quick Facts
 
 ```yaml
 Name: Akash Gupta
 Username: Akashgupta107
-
-Role: Data Science Enthusiast
-
-Education:
-  - B.Tech CSE Graduate
-
-Currently Learning:
-  - Data Science
-  - Machine Learning
-  - Data Analytics
-  - Flask
-  - SQL
-
-Preparing For:
-  - GATE CSE 2026
-  - GATE DA 2026
-
-Goal:
-  To become a Data Scientist
-  and build impactful AI solutions.
+Passion: Data Science
+Favorite Language: Python
+Dream Role: Data Scientist
+Current Mission: Learn • Build • Improve
 ```
 
----
+### 📈 Progress Tracker
+
+🟩 Python            ██████████ 90%
+
+🟩 SQL               ████████░░ 80%
+
+🟩 Data Analysis     ███████░░░ 70%
+
+🟩 Machine Learning  ██████░░░░ 60%
+
+🟩 Flask             █████░░░░░ 50%
+
+🟩 GATE CSE 2026     ██████░░░░ 60%
+
+### 🌟 Motto
+
+> "Transforming data into insights and ideas into solutions."
+
 
 # 🌐 Connect With Me
 
