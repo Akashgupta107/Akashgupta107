@@ -66,6 +66,7 @@ me = AkashGupta()
 
 > "Transforming data into insights and ideas into solutions."
 
+---
 
 # 🌐 Connect With Me
 
