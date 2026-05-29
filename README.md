@@ -37,7 +37,7 @@ class AkashGupta:
 
 me = AkashGupta()
 ```
-
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWl4aWQ3M2V4MGl5aDg4dGh4c2d5b3RwM3A5M3V6M3Q3YjQ4Z2s5eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
 ### 🎯 Current Focus
 
 * 📊 Exploring Data Science & Machine Learning
@@ -46,7 +46,7 @@ me = AkashGupta()
 * 🌐 Developing Web Applications using Flask
 * 🧠 Preparing for GATE CSE & DA 2026
 * 🚀 Growing my GitHub Portfolio
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWl4aWQ3M2V4MGl5aDg4dGh4c2d5b3RwM3A5M3V6M3Q3YjQ4Z2s5eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
+
 ### ⚡ Quick Facts
 
 ```yaml
