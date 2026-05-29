@@ -212,7 +212,7 @@ Then add:
 <img src="https://raw.githubusercontent.com/Akashgupta107/Akashgupta107/output/github-contribution-grid-snake.svg"/>
 </p>
 ```
-
+![snake gif](https://github.com/Akashgupta107/Akashgupta107/blob/output/github-snake-dark.svg)
 ---
 
 # 👀 Profile Visitors
