@@ -136,15 +136,6 @@ me = AkashGupta()
 
 
 
-# 👀 Profile Visitors
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Akashgupta107&label=PROFILE+VIEWS&color=00FFFF&style=for-the-badge"/>
-
-</div>
-
----
 
 # ⚡ Current Mission
 
@@ -171,3 +162,13 @@ while True:
 ### ⚡ Building • Learning • Growing
 
 </div>
+
+# 👀 Profile Visitors
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Akashgupta107&label=PROFILE+VIEWS&color=00FFFF&style=for-the-badge"/>
+
+</div>
+
+---
