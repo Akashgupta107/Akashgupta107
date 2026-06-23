@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="images/fullstack-banner.png" width="100%" />
+<img src="MindBlowing_Futuristic_FullStack.gif" width="100%" />
 
 </div>
 
