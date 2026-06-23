@@ -1,6 +1,6 @@
 # <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Hey+There!+I'm+Akash+Gupta;Data+Science+Enthusiast;Machine+Learning+Explorer;GATE+CSE+2026+Aspirant;Building+The+Future+With+Data" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Hey+There!+I'm+Akash+Gupta;Full+Stack+Developer;React.js+%7C+Node.js+Developer;Building+Scalable+Web+Applications;Turning+Ideas+Into+Digital+Solutions" />
 
 </div>
 
@@ -8,63 +8,63 @@
 
 <div align="center">
 
-<img src="ChatGPT Image Jun 24, 2026, 12_36_15 AM.png" width="100%" />
+<img src="images/fullstack-banner.png" width="100%" />
 
 </div>
 
 ---
+
 ## 🚀 About Me
-
-
 
 ```python
 class AkashGupta:
 
     def __init__(self):
-        self.role = "Data Science Enthusiast"
+        self.role = "Full Stack Developer"
         self.education = "B.Tech CSE Graduate"
         self.location = "India 🇮🇳"
         self.learning = [
-            "Machine Learning",
-            "Data Analytics",
-            "Flask",
-            "SQL",
-            "Scikit-Learn"
+            "React.js",
+            "Node.js",
+            "AWS",
+            "System Design",
+            "Cloud Deployment"
         ]
 
     def current_goal(self):
-        return "Crack GATE CSE 2026 & Become a Data Scientist"
+        return "Build Scalable Applications & Grow as a Software Engineer"
 
 me = AkashGupta()
 ```
+
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWl4aWQ3M2V4MGl5aDg4dGh4c2d5b3RwM3A5M3V6M3Q3YjQ4Z2s5eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
 
 ## 🎯 Current Focus
 
-* 📊 Exploring Data Science & Machine Learning
-* 🐍 Building projects using Python
-* 🗄️ Learning SQL for Data Analytics
-* 🌐 Developing Web Applications using Flask
-* 🧠 Preparing for GATE CSE & DA 2026
-* 🚀 Growing my GitHub Portfolio
+* ⚛️ Building Dynamic User Interfaces with React.js
+* 🚀 Developing Backend APIs using Node.js & Express.js
+* 🗄️ Working with MongoDB & MySQL Databases
+* ☁️ Learning AWS & Cloud Deployment
+* 🔧 Strengthening DSA & Problem Solving Skills
+* 🌐 Building Full Stack Projects
 
 ## 📈 Progress Tracker
 
-🟩 Python            ██████████ 90%
+🟩 HTML & CSS       ██████████ 95%
 
-🟩 SQL               ████████░░ 80%
+🟩 JavaScript       █████████░ 90%
 
-🟩 Data Analysis     ███████░░░ 70%
+🟩 React.js         ████████░░ 80%
 
-🟩 Machine Learning  ██████░░░░ 60%
+🟩 Node.js          ███████░░░ 75%
 
-🟩 Flask             █████░░░░░ 50%
+🟩 MongoDB          ███████░░░ 70%
 
-🟩 GATE CSE 2026     ██████░░░░ 60%
+🟩 AWS              █████░░░░░ 50%
 
 ## 🌟 Motto
 
-> "Transforming data into insights and ideas into solutions."
+> "Transforming Ideas into Scalable Digital Solutions."
 
 ---
 
@@ -90,26 +90,41 @@ me = AkashGupta()
 
 ---
 
-
-## 📊 Data Science & ML Stack
+# ⚡ Full Stack Development Stack
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</div>
+
+---
+
+# 🛠️ Tools & Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,babel,mongodb,mysql,nodejs,react,aws" />
 
 </div>
 
@@ -124,8 +139,11 @@ me = AkashGupta()
 </div>
 
 ---
+
 ![snake gif](https://github.com/Akashgupta107/Akashgupta107/blob/output/github-snake-dark.svg)
+
 ---
+
 # 📊 Contribution Graph
 
 <div align="center">
@@ -136,21 +154,32 @@ me = AkashGupta()
 
 ---
 
+# 📈 GitHub Stats
 
+<div align="center">
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akashgupta107&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashgupta107&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
 
 # ⚡ Current Mission
 
 ```python
 while True:
 
-    Learn_Data_Science()
+    Build_FullStack_Projects()
 
-    Build_Projects()
+    Learn_New_Technologies()
+
+    Solve_Problems()
 
     Improve_Skills()
 
-    Crack_GATE()
+    Deploy_Applications()
 
     Repeat()
 ```
@@ -159,11 +188,13 @@ while True:
 
 <div align="center">
 
-## 🚀 Turning Data Into Intelligence
+## 🚀 Full Stack Developer
 
-### ⚡ Building • Learning • Growing
+### ⚡ Code • Build • Deploy • Scale
 
 </div>
+
+---
 
 # 👀 Profile Visitors
 
@@ -172,5 +203,3 @@ while True:
 <img src="https://komarev.com/ghpvc/?username=Akashgupta107&label=PROFILE+VIEWS&color=00FFFF&style=for-the-badge"/>
 
 </div>
-
----
