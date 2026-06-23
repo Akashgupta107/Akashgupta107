@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/86153190/180595867-8ba21e63-0cbc-46fc-a186-c749f56d921e.jpg" width="100%" />
+<img src="https://chatgpt.com/s/m_6a3ad91028548191811b2b354c1269fe" width="100%" />
 
 </div>
 
