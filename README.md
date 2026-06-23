@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://chatgpt.com/s/m_6a3ad91028548191811b2b354c1269fe" width="100%" />
+<img src="file:///Users/akashgupta/Downloads/ChatGPT%20Image%20Jun%2024,%202026,%2012_36_15%20AM.png" width="100%" />
 
 </div>
 
