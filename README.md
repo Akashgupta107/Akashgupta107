@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="file:///Users/akashgupta/Downloads/ChatGPT%20Image%20Jun%2024,%202026,%2012_36_15%20AM.png" width="100%" />
+<img src="ChatGPT Image Jun 24, 2026, 12_36_15 AM.png" width="100%" />
 
 </div>
 
