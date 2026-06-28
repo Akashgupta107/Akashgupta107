@@ -1,6 +1,6 @@
 # <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Hey+There!+I'm+Akash+Gupta;Full+Stack+Developer;React.js+%7C+Node.js+Developer;Building+Scalable+Web+Applications;Turning+Ideas+Into+Digital+Solutions" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Hey+There!+I'm+Akash+Gupta;Web+Developer;WordPress+Developer;HTML5+%7C+CSS3+Developer;Building+Responsive+Websites;Transforming+Ideas+Into+Digital+Solutions" />
 
 </div>
 
@@ -23,16 +23,21 @@ class AkashGupta:
         self.role = "Web Developer"
         self.education = "B.Tech CSE Graduate"
         self.location = "India 🇮🇳"
-        self.learning = [
-            "React.js",
-            "Node.js",
-            "AWS",
-            "System Design",
-            "Cloud Deployment"
+
+        self.skills = [
+            "HTML5",
+            "CSS3",
+            "WordPress",
+            "Elementor",
+            "SQL",
+            "Microsoft Excel",
+            "Git",
+            "GitHub",
+            "Web Hosting"
         ]
 
     def current_goal(self):
-        return "Build Scalable Applications & Grow as a Software Engineer"
+        return "Build Professional Websites & Grow as a Web Developer"
 
 me = AkashGupta()
 ```
@@ -41,30 +46,34 @@ me = AkashGupta()
 
 ## 🎯 Current Focus
 
-* ⚛️ Building Dynamic User Interfaces with React.js
-* 🚀 Developing Backend APIs using Node.js & Express.js
-* 🗄️ Working with MongoDB & MySQL Databases
-* ☁️ Learning AWS & Cloud Deployment
-* 🔧 Strengthening DSA & Problem Solving Skills
-* 🌐 Building Full Stack Projects
+* 🌐 Building Responsive Websites
+* ⚙️ Developing WordPress Solutions
+* 🎨 Creating Modern UI Designs
+* 🗄️ Working with SQL Databases
+* 📊 Utilizing Microsoft Excel for Data Management
+* 🔧 Strengthening Problem-Solving Skills
+
+---
 
 ## 📈 Progress Tracker
 
-🟩 HTML & CSS       ██████████ 95%
+🟩 HTML5 & CSS3       ██████████ 95%
 
-🟩 JavaScript       █████████░ 90%
+🟩 WordPress          █████████░ 90%
 
-🟩 React.js         ████████░░ 80%
+🟩 Elementor          █████████░ 90%
 
-🟩 Node.js          ███████░░░ 75%
+🟩 SQL                ████████░░ 80%
 
-🟩 MongoDB          ███████░░░ 70%
+🟩 Microsoft Excel    ████████░░ 80%
 
-🟩 AWS              █████░░░░░ 50%
+🟩 Git & GitHub       ████████░░ 80%
+
+---
 
 ## 🌟 Motto
 
-> "Transforming Ideas into Scalable Digital Solutions."
+> "Transforming Ideas into Digital Solutions."
 
 ---
 
@@ -84,37 +93,35 @@ me = AkashGupta()
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js" />
+<img src="https://skillicons.dev/icons?i=cpp,html,css" />
 
 </div>
 
 ---
 
-# ⚡ Full Stack Development Stack
+# ⚡ Web Development Stack
 
 <div align="center">
+
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Web_Hosting-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 
 </div>
 
@@ -124,9 +131,37 @@ me = AkashGupta()
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,babel,mongodb,mysql,nodejs,react,aws" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 </div>
+
+### 💡 Additional Skills
+
+* 🌐 WordPress Development
+* 🎨 Elementor Page Builder
+* 🗄️ SQL Database Management
+* 📊 Microsoft Excel
+* ☁️ Web Hosting & Deployment
+* 🌐 Networking Fundamentals
+* 🔧 DHCP & IP Addressing
+* 📡 Routers & Switches
+* 🖧 OSI & TCP/IP Models
+
+---
+
+# 📂 Featured Projects
+
+### 🧠 Mental Health Support Group
+
+A web platform that allows users to assess mental health, participate in discussions, and connect with support groups.
+
+### 🚔 Crime Portal
+
+A complaint registration platform for reporting cybercrime, social issues, and criminal activities.
+
+### 💪 APEXELITE Gym Website
+
+A responsive gym website featuring membership plans, personal training services, and modern UI design.
 
 ---
 
@@ -171,15 +206,15 @@ me = AkashGupta()
 ```python
 while True:
 
-    Build_FullStack_Projects()
+    Build_Websites()
+
+    Customize_WordPress()
 
     Learn_New_Technologies()
 
-    Solve_Problems()
-
     Improve_Skills()
 
-    Deploy_Applications()
+    Deploy_Web_Projects()
 
     Repeat()
 ```
@@ -188,9 +223,9 @@ while True:
 
 <div align="center">
 
-## 🚀 Full Stack Developer
+## 🚀 Web Developer
 
-### ⚡ Code • Build • Deploy • Scale
+### ⚡ Design • Develop • Deploy
 
 </div>
 
