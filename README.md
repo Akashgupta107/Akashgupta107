@@ -20,7 +20,7 @@
 class AkashGupta:
 
     def __init__(self):
-        self.role = "Full Stack Developer"
+        self.role = "Web Developer"
         self.education = "B.Tech CSE Graduate"
         self.location = "India 🇮🇳"
         self.learning = [
