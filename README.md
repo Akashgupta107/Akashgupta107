@@ -1,344 +1,290 @@
-# 👋 Hey, I'm Akash Gupta
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Akash+Gupta;Data+Analyst;SQL+%7C+Python+%7C+Power+BI;Turning+Data+Into+Insights;Analyzing+Data+%7C+Building+Dashboards;Learning+%7C+Building+%7C+Improving" />
+# 👋 Hi, I'm Akash Gupta
 
-</div>
+### 📊 Data Analyst | SQL • Python • Excel • Power BI
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=850&lines=Turning+Raw+Data+Into+Actionable+Insights;SQL+%7C+Python+%7C+Excel+%7C+Power+BI;Data+Analysis+%7C+EDA+%7C+Business+Intelligence;Building+Practical+Analytics+Projects" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:0077FF&height=180&section=header&text=DATA%20ANALYST&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<br>
+
+<a href="https://www.linkedin.com/in/akash-gupta17/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+ 
+
+<a href="https://github.com/Akashgupta107">
+<img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🧑‍💼 About Me
+
+I'm a **B.Tech Computer Science & Engineering graduate** focused on building my career in **Data Analytics**.
+
+I enjoy working with data to uncover patterns, identify trends, answer business questions, and communicate insights through clear visualizations and dashboards.
+
+My core toolkit includes **SQL, Python, Excel, Power BI, and Tableau**, with hands-on work in data cleaning, exploratory data analysis, visualization, and business analytics.
 
 ```python
 class AkashGupta:
 
-    def __init__(self):
-        self.role = "Aspiring Data Analyst"
-        self.education = "B.Tech CSE Graduate"
-        self.location = "India 🇮🇳"
+    role = "Aspiring Data Analyst"
+    education = "B.Tech CSE Graduate"
+    location = "India 🇮🇳"
 
-        self.skills = [
-            "SQL",
-            "Python",
-            "Pandas",
-            "NumPy",
-            "Excel",
-            "Power BI",
-            "Tableau",
-            "Data Cleaning",
-            "Exploratory Data Analysis",
-            "Data Visualization",
-            "Git & GitHub"
-        ]
+    core_stack = [
+        "SQL",
+        "Python",
+        "Excel",
+        "Power BI",
+        "Tableau"
+    ]
 
-    def current_goal(self):
-        return "Build data-driven solutions and start my career as a Data Analyst"
+    focus = [
+        "Data Analysis",
+        "Business Intelligence",
+        "Data Visualization",
+        "Exploratory Data Analysis"
+    ]
 
-
-me = AkashGupta()
-```
-
-### 👨‍💻 What I Do
-
-* 📊 Analyze datasets to discover meaningful patterns and trends
-* 🐍 Use **Python, Pandas & NumPy** for data analysis
-* 🗄️ Write **SQL queries** to extract and analyze business data
-* 📈 Build interactive **Power BI dashboards**
-* 📑 Use **Excel** for data cleaning, analysis and reporting
-* 🔍 Perform **Exploratory Data Analysis (EDA)**
-* 💡 Convert raw data into actionable business insights
-* 🚀 Build end-to-end analytics projects
-
----
-
-## 🎯 Current Focus
-
-```text
-📊 Data Analysis
-████████████████████░ 90%
-
-🗄️ SQL
-██████████████████░░ 85%
-
-🐍 Python
-████████████████░░░░ 80%
-
-📑 Microsoft Excel
-██████████████████░░ 85%
-
-📈 Power BI
-████████████████░░░░ 80%
-
-📊 Tableau
-██████████████░░░░░░ 70%
+    goal = "Turn data into actionable business insights"
 ```
 
 ---
 
-# 🧰 Tech Stack
-
-## 📊 Data Analytics
+# 📊 What I Bring
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-4C9A9A?style=for-the-badge&logo=python&logoColor=white"/>
+|     🔍 Analyze     |   🧹 Prepare   |    📈 Visualize   |   💡 Communicate  |
+| :----------------: | :------------: | :---------------: | :---------------: |
+|    SQL & Python    |  Data Cleaning |  Power BI & Excel | Business Insights |
+|    KPIs & Trends   | Pandas & NumPy |     Dashboards    |  Recommendations  |
+| Business Questions |       EDA      | Data Storytelling |  Decision Support |
 
 </div>
 
 ---
 
-## 📈 Business Intelligence & Visualization
+# 🛠️ Technical Skills
 
-<div align="center">
+### 🗄️ Data & Databases
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+`SQL` `MySQL` `Joins` `CTEs` `Subqueries` `Window Functions` `Aggregations` `CASE Statements`
 
-</div>
+### 🐍 Python for Data Analysis
 
----
+`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `EDA` `Data Cleaning`
 
-## 🛠️ Tools
+### 📊 Business Intelligence
 
-<div align="center">
+`Power BI` `Power Query` `DAX` `Data Modeling` `KPI Dashboards` `Business Reporting`
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+### 📑 Spreadsheet Analytics
 
-</div>
+`Microsoft Excel` `Pivot Tables` `XLOOKUP` `VLOOKUP` `INDEX-MATCH` `Conditional Formatting` `Charts`
 
----
+### 📈 Analytics
 
-# 📚 Data Analyst Skills
+`Data Cleaning` `Exploratory Data Analysis` `Trend Analysis` `KPI Analysis` `Customer Analysis` `Sales Analysis` `Business Analytics`
 
-### 🗄️ SQL
+### 🔧 Tools
 
-* SELECT, WHERE, GROUP BY, ORDER BY
-* JOINs
-* Subqueries
-* CTEs
-* CASE statements
-* Aggregate Functions
-* Window Functions
-* Data Filtering & Transformation
-* Business Analytics Queries
-
-### 🐍 Python
-
-* Python Fundamentals
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Data Cleaning
-* Exploratory Data Analysis
-* Data Visualization
-
-### 📑 Excel
-
-* Data Cleaning
-* Pivot Tables
-* VLOOKUP / XLOOKUP
-* INDEX & MATCH
-* IF / SUMIF / COUNTIF
-* Conditional Formatting
-* Charts & Dashboards
-* Business Reporting
-
-### 📊 Power BI
-
-* Data Transformation
-* Power Query
-* Data Modeling
-* DAX Fundamentals
-* KPI Development
-* Interactive Dashboards
-* Business Reporting
-* Data Visualization
-
-### 🔍 Analytics
-
-* Data Cleaning
-* EDA
-* Trend Analysis
-* KPI Analysis
-* Customer Analysis
-* Sales Analysis
-* Business Performance Analysis
-* Insight Generation
+`Git` `GitHub` `VS Code` `Tableau`
 
 ---
 
-# 📂 Featured Data Analytics Projects
+# 🚀 Featured Analytics Projects
 
-## 🛒 1. E-Commerce Sales Analysis
-
-**Tools:** `SQL` `Python` `Pandas` `Power BI`
-
-Analyzed an e-commerce dataset to understand sales performance, customer behavior and product trends.
-
-### 🔎 Key Analysis
-
-* Revenue & profit trends
-* Top-performing products
-* Customer purchasing behavior
-* Regional performance
-* Monthly sales trends
-* Category-level performance
-
-### 💡 Skills Demonstrated
-
-`SQL Queries` • `Data Cleaning` • `EDA` • `Data Visualization` • `Business Insights`
+> A selection of projects demonstrating my ability to move from **raw data → analysis → visualization → business insights**.
 
 ---
 
-## 📊 2. Python Exploratory Data Analysis
+## 🛒 E-Commerce Sales & Business Analysis
 
-**Tools:** `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`
+**SQL • Python • Pandas • Power BI**
 
-Performed complete exploratory data analysis on a real-world dataset.
+Analyzed e-commerce data to understand revenue performance, customer behavior, product performance, and regional trends.
 
-### 🔎 Analysis Included
+### 🔍 Business Questions
 
-* Data cleaning
-* Missing-value treatment
-* Outlier detection
-* Statistical analysis
-* Correlation analysis
-* Distribution analysis
-* Trend identification
-* Visual storytelling
+* Which products generate the most revenue?
+* What are the monthly sales trends?
+* Which customer segments contribute the most?
+* Which regions perform best?
+* Where are the major opportunities for improvement?
 
-### 💡 Skills Demonstrated
+### 📊 Analysis
 
-`Python` • `Pandas` • `NumPy` • `EDA` • `Visualization`
-
----
-
-## 📈 3. Power BI Business Dashboard
-
-**Tools:** `Power BI` `Power Query` `DAX`
-
-Created an interactive business intelligence dashboard to monitor important business KPIs.
-
-### 📌 Dashboard Includes
-
-* Revenue
-* Sales
-* Profit
-* Orders
-* Customer metrics
+* Revenue & profit analysis
 * Product performance
+* Customer behavior
 * Regional performance
-* Monthly trends
+* Category-level analysis
+* Monthly & yearly trends
+* KPI analysis
 
-### 💡 Skills Demonstrated
+**Skills:** `SQL` `Python` `Pandas` `EDA` `Power BI` `Business Analytics`
 
-`Power BI` • `Power Query` • `DAX` • `Data Modeling` • `Dashboard Design`
+**→ [View Project](#)**
 
 ---
 
-## 💼 4. End-to-End Business Analytics Project
+## 🐍 Python Exploratory Data Analysis
 
-**Tools:** `SQL` `Python` `Excel` `Power BI`
+**Python • Pandas • NumPy • Matplotlib • Seaborn**
 
-Built an end-to-end analytics workflow starting from raw data and ending with business recommendations.
+Performed a complete exploratory analysis of a real-world dataset to understand its structure, quality, relationships, and underlying patterns.
 
-### 🔄 Workflow
+### 🔍 Analysis Performed
+
+* Data quality assessment
+* Missing-value treatment
+* Duplicate detection
+* Outlier identification
+* Statistical analysis
+* Distribution analysis
+* Correlation analysis
+* Trend identification
+* Data visualization
+
+**Skills:** `Python` `Pandas` `NumPy` `EDA` `Data Visualization`
+
+**→ [View Project](#)**
+
+---
+
+## 📈 Power BI Business Intelligence Dashboard
+
+**Power BI • Power Query • DAX**
+
+Built an interactive dashboard designed to provide a clear view of business performance through KPIs, trends, and detailed analysis.
+
+### 📌 Dashboard
+
+**KPIs**
+
+`Revenue` • `Profit` • `Orders` • `Customers`
+
+**Analysis**
+
+`Product Performance` • `Regional Performance` • `Monthly Trends` • `Category Analysis`
+
+**Skills:** `Power BI` `Power Query` `DAX` `Data Modeling` `Dashboard Design`
+
+**→ [View Dashboard](#)**
+
+---
+
+## 💼 End-to-End Business Analytics Project
+
+**SQL • Python • Excel • Power BI**
+
+A complete analytics workflow designed around a real-world business problem.
+
+### 🔄 From Data to Decision
 
 ```text
-Raw Data
-    ↓
-Data Cleaning
-    ↓
-SQL Analysis
-    ↓
-Python EDA
-    ↓
-Data Visualization
-    ↓
-Power BI Dashboard
-    ↓
-Business Insights
-    ↓
-Recommendations
+                 RAW DATA
+                     │
+                     ▼
+              DATA CLEANING
+                     │
+                     ▼
+             DATA EXPLORATION
+                     │
+                     ▼
+               SQL ANALYSIS
+                     │
+                     ▼
+                PYTHON / EDA
+                     │
+                     ▼
+              VISUALIZATION
+                     │
+                     ▼
+             POWER BI DASHBOARD
+                     │
+                     ▼
+             BUSINESS INSIGHTS
+                     │
+                     ▼
+              RECOMMENDATIONS
 ```
 
 ### 🎯 Objective
 
 Transform raw business data into meaningful insights that can support better decision-making.
 
+**Skills:** `SQL` `Python` `Excel` `Power BI` `EDA` `Business Intelligence`
+
+**→ [View Project](#)**
+
 ---
 
-# 🧠 My Data Analysis Workflow
+# 🧠 My Analytics Approach
+
+I don't use data analysis simply to create charts.
+
+My approach is:
 
 ```text
-        RAW DATA
-            │
-            ▼
-    ┌─────────────────┐
-    │  Data Cleaning  │
-    └────────┬────────┘
-             ▼
-    ┌─────────────────┐
-    │ Data Exploration│
-    └────────┬────────┘
-             ▼
-    ┌─────────────────┐
-    │  SQL Analysis   │
-    └────────┬────────┘
-             ▼
-    ┌─────────────────┐
-    │   Python / EDA  │
-    └────────┬────────┘
-             ▼
-    ┌─────────────────┐
-    │ Visualization   │
-    └────────┬────────┘
-             ▼
-    ┌─────────────────┐
-    │ Power BI Report  │
-    └────────┬────────┘
-             ▼
-    ┌─────────────────┐
-    │ Business Insights│
-    └─────────────────┘
+01  Understand the Business Problem
+                ↓
+02  Identify the Right Data
+                ↓
+03  Clean & Prepare the Dataset
+                ↓
+04  Explore the Data
+                ↓
+05  Ask & Answer Business Questions
+                ↓
+06  Build Meaningful Visualizations
+                ↓
+07  Identify Key Insights
+                ↓
+08  Communicate Recommendations
 ```
+
+> **The goal isn't just to analyze data — it's to make the analysis useful.**
 
 ---
 
-# 📊 What I Like Analyzing
+# 📌 Areas I Like Analyzing
 
 <div align="center">
 
-| 📌 Area        | 🔍 What I Analyze        |
-| -------------- | ------------------------ |
-| 💰 Sales       | Revenue, profit & growth |
-| 🛍️ Customers  | Behavior & segmentation  |
-| 📦 Products    | Performance & demand     |
-| 🌍 Regions     | Geographic performance   |
-| 📈 Business    | KPIs & trends            |
-| 📅 Time Series | Monthly & yearly trends  |
+| Area               | Questions I Explore                      |
+| ------------------ | ---------------------------------------- |
+| 💰 **Sales**       | Revenue, profit, growth & performance    |
+| 🛍️ **Customers**  | Behavior, segments & purchasing patterns |
+| 📦 **Products**    | Demand, performance & profitability      |
+| 🌍 **Regions**     | Geographic performance & opportunities   |
+| 📈 **KPIs**        | Business performance & trends            |
+| 📅 **Time Trends** | Monthly, quarterly & yearly changes      |
+
+</div>
+
+---
+
+# 📊 Data Analytics Toolkit
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 
 </div>
 
@@ -346,81 +292,45 @@ Transform raw business data into meaningful insights that can support better dec
 
 # 🎓 Education
 
-### 🎓 VIT Bhopal University
+### VIT Bhopal University
 
-**B.Tech — Computer Science & Engineering**
+**Bachelor of Technology — Computer Science & Engineering**
 
-**CGPA:** 8.66 / 10.0
+**CGPA: 8.66 / 10.0**
 
 ---
 
-# 🌱 Currently Learning
+# 🌱 Currently Improving
 
 ```text
-SQL Advanced Analytics
-        ↓
-Python for Data Analysis
-        ↓
+Advanced SQL & Business Queries
+             ↓
 Power BI & DAX
-        ↓
-Advanced Excel
-        ↓
+             ↓
 Statistics for Data Analysis
-        ↓
+             ↓
+Advanced Excel
+             ↓
 Business Analytics
-        ↓
-Real-World Data Projects
+             ↓
+Real-World Analytics Projects
 ```
 
 ---
 
-# 🎯 Career Goal
+# 🎯 Career Objective
 
-> **"I want to transform raw data into meaningful insights that help businesses make better decisions."**
+I'm looking for an opportunity to begin my career as a **Data Analyst**, where I can apply my skills in SQL, Python, Excel, and Power BI to solve business problems and support data-driven decision-making.
 
-My goal is to continuously improve my analytical, technical and problem-solving skills while building real-world projects that demonstrate practical data analytics capabilities.
-
----
-
-# 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/akash-gupta17/">
-
-<img src="https://skillicons.dev/icons?i=linkedin" height="60"/>
-
-</a>
-
-   
-
-<a href="https://github.com/Akashgupta107">
-
-<img src="https://skillicons.dev/icons?i=github" height="60"/>
-
-</a>
-
-</div>
+I'm particularly interested in roles where I can combine **technical analysis, visualization, and business understanding**.
 
 ---
 
-# 📈 GitHub Stats
+# 🐍 Contribution Activity
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akashgupta107&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashgupta107&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akashgupta107&theme=tokyonight&hide_border=true"/>
+<img src="https://raw.githubusercontent.com/Akashgupta107/Akashgupta107/output/github-snake-dark.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
@@ -430,42 +340,46 @@ My goal is to continuously improve my analytical, technical and problem-solving 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akashgupta107&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akashgupta107&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Graph"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+# 🤝 Let's Connect
 
 <div align="center">
 
-<img src="https://github.com/Akashgupta107/Akashgupta107/blob/output/github-snake-dark.svg"/>
+<a href="https://www.linkedin.com/in/akash-gupta17/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+ 
+
+<a href="https://github.com/Akashgupta107">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 📊 Analyze • Visualize • Communicate • Decide
+
+**Turning Data Into Actionable Insights.**
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Akashgupta107&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 👀 Profile Visitors
-
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Akashgupta107&label=PROFILE+VIEWS&color=00FFFF&style=for-the-badge"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 📊 Analyze • Visualize • Understand • Decide
-
-**Turning Data Into Insights 🚀**
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077FF,100:00FFFF&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077FF,100:00D9FF&height=100&section=footer"/>
 
 </div>
