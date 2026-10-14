@@ -338,11 +338,14 @@ I'm particularly interested in roles where I can combine **technical analysis, v
 
 # 📊 Contribution Graph
 
-<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akashgupta107&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Graph"/>
-
-</div>
+<p align="center">
+  <img
+    src="https://ghchart.rshah.org/409ba5/Akashgupta107"
+    alt="Akashgupta107 GitHub Contribution Graph"
+    width="100%"
+  />
+</p>
 
 ---
 
